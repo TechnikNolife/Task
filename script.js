@@ -1,4 +1,4 @@
-/*const userName = 'Jacob'
+/*const userName = 'Jacob' Tak naprawde to Jakub
 let age = 15
 const favoriteMeal = 'Soup'
 const date = new Date()
